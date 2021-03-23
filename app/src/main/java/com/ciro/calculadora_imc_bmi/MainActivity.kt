@@ -14,7 +14,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var resultadoTXT = findViewById<TextView>(R.id.resultadoTXT)
-        val tituloTXT = findViewById<TextView>(R.id.tituloAppTXT)
         val pesoEDT = findViewById<EditText>(R.id.pesoEDT)
         val alturaEDT = findViewById<EditText>(R.id.alturaEDT)
         val calculaBNT = findViewById<Button>(R.id.calcularBTN)
