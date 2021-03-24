@@ -63,6 +63,7 @@
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         android:textStyle="bold"
+        android:visibility="invisible"
         app:backgroundTint="#144A2E" />
 
 </LinearLayout>
